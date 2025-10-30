@@ -1,2 +1,3 @@
 "" 
 "Jezelle Mae Taneo" 
+"I am 3rd year student, Bachelor of Science in Computer Science" 
